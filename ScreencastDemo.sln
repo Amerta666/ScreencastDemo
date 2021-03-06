@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Screencast001", "Screencast001", "{7960FDE1-3CD8-42C7-9E34-CEFF3A28E11E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YoutubeScreencast001", "Screencast001\YoutubeScreencast001\YoutubeScreencast001.csproj", "{C4586719-7D3B-4846-8B35-449E405E71FB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YoutubeScreencast002", "Screencast001\YoutubeScreencast002\YoutubeScreencast002.csproj", "{98619AE0-E4A6-4908-A6E3-4D33451BA52B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YoutubeScreencast003", "Screencast001\YoutubeScreencast003\YoutubeScreencast003.csproj", "{30BEA335-36AD-420F-A963-5EC6A945C201}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YoutubeScreencast004", "Screencast001\YoutubeScreencast004\YoutubeScreencast004.csproj", "{7F397903-1EE4-40BF-BD34-E839749F2F13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C4586719-7D3B-4846-8B35-449E405E71FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4586719-7D3B-4846-8B35-449E405E71FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4586719-7D3B-4846-8B35-449E405E71FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4586719-7D3B-4846-8B35-449E405E71FB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{98619AE0-E4A6-4908-A6E3-4D33451BA52B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{98619AE0-E4A6-4908-A6E3-4D33451BA52B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{98619AE0-E4A6-4908-A6E3-4D33451BA52B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{98619AE0-E4A6-4908-A6E3-4D33451BA52B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30BEA335-36AD-420F-A963-5EC6A945C201}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30BEA335-36AD-420F-A963-5EC6A945C201}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30BEA335-36AD-420F-A963-5EC6A945C201}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30BEA335-36AD-420F-A963-5EC6A945C201}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F397903-1EE4-40BF-BD34-E839749F2F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F397903-1EE4-40BF-BD34-E839749F2F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F397903-1EE4-40BF-BD34-E839749F2F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F397903-1EE4-40BF-BD34-E839749F2F13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C4586719-7D3B-4846-8B35-449E405E71FB} = {7960FDE1-3CD8-42C7-9E34-CEFF3A28E11E}
+		{98619AE0-E4A6-4908-A6E3-4D33451BA52B} = {7960FDE1-3CD8-42C7-9E34-CEFF3A28E11E}
+		{30BEA335-36AD-420F-A963-5EC6A945C201} = {7960FDE1-3CD8-42C7-9E34-CEFF3A28E11E}
+		{7F397903-1EE4-40BF-BD34-E839749F2F13} = {7960FDE1-3CD8-42C7-9E34-CEFF3A28E11E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F772C6CC-C627-4D24-BD05-79A1A837CA9C}
+	EndGlobalSection
+EndGlobal
